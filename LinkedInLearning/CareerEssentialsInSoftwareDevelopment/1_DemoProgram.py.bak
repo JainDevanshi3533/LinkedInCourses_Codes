@@ -1,0 +1,5 @@
+print('Demo Python Program');
+
+8+8;
+
+print('Exiting program');
